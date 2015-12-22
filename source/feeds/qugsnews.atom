@@ -17,6 +17,13 @@
     <content type="text">This developer meeting takes place right after the Spanish FOSS4G</content>
   </entry>
   
+  <entry>
+    <id>http://qgis.org</id>
+    <title type="text">March 10th 2016 QGIS Usergroup Denmark Meeting, Odense</title>
+    <author> <name>Mie Winstrup</name> </author>
+    <updated>2015-12-22T00:00:00.000Z</updated>
+    <content type="text">Usergroup meeting: User presentations, general assembly and probably workshops. More information on www.qgis.dk in January 2016</content>
+  </entry>
   
   <!--<entry>
     <id>http://qgis.org</id>
