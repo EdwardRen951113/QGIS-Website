@@ -1,6 +1,8 @@
 ==================
 QGIS User Meetings
 ==================
+4th Danish QGIS User Meeting in Odense, Denmark. 8th of march 20018
+--------------------------------------------------
 
 7th german-speaking QGIS User Meeting in Kassel 2013
 ----------------------------------------------------
